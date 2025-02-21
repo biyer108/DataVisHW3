@@ -33,4 +33,19 @@ Idiom: Multiple Line Chart
 | Year | value, quantitative | horizontal positional on a common scale (x-axis) |
 | Number of Suicides | value, quantitative | vertical position on a common scale (y-axis) |
 
+## Creating Charts
 
+![This is a picture of suicide per 100k by country.](SuicidesPer100kbyCountry.png)
+
+- https://public.tableau.com/app/profile/bhargav.iyer/viz/Suicides1/Sheet1?publish=yes
+- The above visualization only includes countries that have aabove 5,000 suicides for suicides per 100K population.
+
+![This is a picture of GDP per Capita vs Annual HDI.](GDPCapitavsAnnualHDI.png)
+
+- https://public.tableau.com/app/profile/bhargav.iyer/viz/Suicides2_17401685669390/Sheet3
+- The above visualiztion has details as countryyear in order when a person hovers over the datapoint, the datapoint conveys the information country and year.
+
+![This is a picture of Annual Suicide rate differentiated by Sex.](AnnualSuicideBySex.png)
+
+- https://public.tableau.com/app/profile/bhargav.iyer/viz/Suicides3_17401685972720/Sheet4?publish=yes
+- The above visualization differentiates sexes by color in order to create a Multiple line chart.
