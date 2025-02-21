@@ -17,11 +17,13 @@ Idiom: Bar Chart
 | Country | key, categorical | horizontal spatial region (x-axis) |
 | Suicides per 100,000 | value, quantitative | vertical position on a common scale (y-axis) |
 
+A scatter plot was used here in order to show a correlation between HDI (Human Development Index) and GDP per Capita (Gross Development Product per Country).  I wanted to show each data point to show a general trend with the data.  I added a details part of each data point to give the country and year of this data in the workbook.
+
 Idiom: Scatter Plot
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
 | --- |---| --- |
-| HDI for year | key, categorical | horizontal spatial region (x-axis) |
-| Suicides per 100,000 | value, quantitative | vertical position on a common scale (y-axis) |
+| HDI for year | value, quantitative | horizontal spatial region (x-axis) |
+| GDP Per Capita ($) | value, quantitative | vertical position on a common scale (y-axis) |
 
 A multiple line chart was used to show the trend of suicides per year by sex.  I wanted to see whether the general number of suicides world wide were increasing or decreasing or stagnant.  I found that the number of suicides generally increased from 1985 to 2000 for number of suicides for men.  Where from 2000 to 2016 there was a gradual decrease, again for number of suicides for men.  For women, the suicide rates were generally stagnant around 50k.  However, there was a sharp decrease of number of suicides from 2015 to 2016 for both men and women.  Is there a special reason why? Maybe, not enough data for 2016?  I could not find any special reason for why there was a steep decline in suicides in 2016.
 
