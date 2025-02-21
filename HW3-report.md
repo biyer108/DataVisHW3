@@ -9,7 +9,7 @@ I have chosen to work with the Suicide data.csv dataset.  This dataset contains 
 
 ## Visualization Idioms & visual encoding choices
 
-A bar chart was used here to show a comparison between each countries own Suicide rates.  Since the population of each country will be different I used the Suicides per 100,000 population to allow a comparison between the countries.  I filtered the data so that the visualization does not show suicides per 100,000 below 5,000.  This would only show the countries with truly high suicide rates.
+A bar chart was used here to show a comparison between each countries own Suicide rates.  Since the population of each country will be different, I used the Suicides per 100,000 population to allow a comparison between the countries.  I filtered the data so that the visualization does not show suicides per 100,000 below 5,000.  This would only show the countries with truly high suicide rates.
 
 Idiom: Bar Chart
 | Data: Attribute | Data: Attribute Type  | Encode: Channel | 
