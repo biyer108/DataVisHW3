@@ -53,6 +53,7 @@ Idiom: Multiple Line Chart
 ![This is the Recreated image of the Annual Suicide rate differentiated by Sex.](RecreatedAnnualSuicideBySex.png)
 
 - https://colab.research.google.com/drive/1mu-ejCi7chzi-ftZqD8EBfugbnzNXLOV#scrollTo=2gWu6gRZ7Gnn
+- The above visualization is the recreated (in Google Colab from Tableau) image of the Annual Suicide rate differentiated by Sex.
 
 ## Reflection
 
