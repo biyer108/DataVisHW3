@@ -49,3 +49,14 @@ Idiom: Multiple Line Chart
 
 - https://public.tableau.com/app/profile/bhargav.iyer/viz/Suicides3_17401685972720/Sheet4?publish=yes
 - The above visualization differentiates sexes by color in order to create a Multiple line chart.
+
+![This is the Recreated image of the Annual Suicide rate differentiated by Sex.](RecreatedAnnualSuicideBySex.png)
+
+- https://colab.research.google.com/drive/1mu-ejCi7chzi-ftZqD8EBfugbnzNXLOV#scrollTo=2gWu6gRZ7Gnn
+
+## Reflection
+
+I found that Tableau was easier to use than Google Colab in creating the visualization.  This was because Tableau is designed as a Data Visualization software meant to create nice looking visualizations that can be customized easier than Google Colab.  For example, in Google Colab I was forced to use multiple for loops just to put in the data points while in Tableau it automatically gave me the choice of showing the data points.
+
+## References
+None
